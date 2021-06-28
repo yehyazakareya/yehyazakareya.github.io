@@ -1,3 +1,3 @@
-## A New Post
+# A New Post
 
 
