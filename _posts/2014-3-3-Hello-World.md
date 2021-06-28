@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 published: true
 ---
-[a relative link](about_me.md)
+[a relative link](about.md)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
