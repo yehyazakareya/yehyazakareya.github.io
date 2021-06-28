@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: ''
 published: true
 ---
 # _[linux Fundamentals part 1](https://yehyazakareya.github.io/about)_
