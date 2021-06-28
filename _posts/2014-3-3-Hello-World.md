@@ -3,7 +3,7 @@ layout: post
 title: ''
 published: true
 ---
-# _[linux Fundamentals part 1](https://yehyazakareya.github.io/about)_
+ <span style="font-family:Papyrus; font-size:60px;"> #  _[linux Fundamentals part 1](https://yehyazakareya.github.io/about)_ </span>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
