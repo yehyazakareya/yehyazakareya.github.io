@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 published: true
 ---
-# __[a relative link](https://yehyazakareya.github.io/about)
+# _[a relative link](https://yehyazakareya.github.io/about)_
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
