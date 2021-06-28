@@ -3,10 +3,8 @@ layout: post
 title: ''
 published: true
 ---
- # <span style="font-family:Papyrus; font-size:60px;">   [linux Fundamentals part 1](https://yehyazakareya.github.io/about) </span>
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+  <span style="font-family:Papyrus; font-size:60px;">   [linux Fundamentals part 1](https://yehyazakareya.github.io/about) </span>
 
 
- [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
 # ffvdfvofvfdknvdkfnvndkf
