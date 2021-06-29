@@ -24,7 +24,7 @@ After that we want to move the file named (myfile) to the directory (myfolder) s
 
 ![move.png]({{site.baseurl}}/move.png)
 
-Finaaly we must discover the contents of (myfile) so we will use **cat myfile** command
+Then we must discover the contents of (myfile) so we will use **cat myfile** command
 
 ![cat2.png]({{site.baseurl}}/cat2.png)
 
@@ -33,7 +33,7 @@ Finaaly we must discover the contents of (myfile) so we will use **cat myfile** 
 ![-l .png]({{site.baseurl}}/-l .png)
 
 
-Then we need to switch to user2 using the command **su user2**
+Now we need to switch to user2 using the command **su user2**
 
 ![su.png]({{site.baseurl}}/su.png)
 
