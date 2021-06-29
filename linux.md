@@ -39,6 +39,8 @@ IN order to search for a word or prefix  in a certain file we use the command gr
 
 3- The third task is to use shell operators to write to files so we will start by introducing some shell operators like:
 
+**&:** allows you to run commands in background
+
 **>:** redirector which takes output from command and directs it
 
 **>>:** appends the output to certain file
