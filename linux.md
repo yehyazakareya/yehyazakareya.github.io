@@ -43,7 +43,7 @@ IN order to search for a word or prefix  in a certain file we use the command gr
 
 **>>:** appends the output to certain file
 
-After knowing a little bit about shell operators we will use that knowledge to create file nammed password and add the word (password123) to it using the command **echo password123 > passwords** then we will append another word (tryhackme) to the file passwords using the command **echo tryhackme >> passwords** as follows:
+After knowing a little bit about shell operators we will use that knowledge to create file named password and add the word (password123) to it using the command **echo password123 > passwords** then we will append another word (tryhackme) to the file passwords using the command **echo tryhackme >> passwords** as follows:
 
 ![echo1.png]({{site.baseurl}}/echo1.png)
 ![echo2.png]({{site.baseurl}}/echo2.png)
