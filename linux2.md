@@ -28,4 +28,25 @@ Finaaly we must discover the contents of (myfile) so we will use **cat myfile** 
 
 ![cat2.png]({{site.baseurl}}/cat2.png)
 
-3- The third task
+3- The third task is learning about the different users on the same machine so first we have to know the owner of the file (important) so we will execute the command **ls -l** ,    **-l** is used to list permissions,owners and groups of the files.
+
+![-l .png]({{site.baseurl}}/-l .png)
+
+
+Then we need to switch to user2 using the command **su user2**
+
+![su.png]({{site.baseurl}}/su.png)
+
+Finally we open the file (important) to know its content using **cat important** command and here  we find the flag: THM{SU_USER2}
+
+![cat3.png]({{site.baseurl}}/cat3.png)
+
+4- The fourth task is to know the most common directories such as:
+
+**/etc:** it stores the sudoers , passwd , shadow files , they show how the system stores the password for each user in encrypted formatting (sha512)
+
+**/var:** stores frequently accessed data by services or apps like log files
+
+**/root:** it's like the home directory for root user
+
+**/tmp:** stores data that is needed to be accesssed once or twice and user can write to this folder by default which can be used to store scripts.
