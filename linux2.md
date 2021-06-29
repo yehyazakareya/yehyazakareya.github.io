@@ -4,9 +4,9 @@ ssh , man ,  touch , file , mv , cat , ls , su
 <span style=" font-size:37px;"> **Walkthrough:** </span><br/>
 
 
-1- The first task was to use **ssh** command to login to the remote machine so we will execute the following command **ssh tryhackme@machine Ip**
+1- The first task is to use **ssh** command to login to the remote machine so we will execute the following command **ssh tryhackme@machine Ip**
 
-2- The second task was to use the manual pages to  explore  the command ls the command looks like that **man ls**
+2- The second task is to use the manual pages to  explore  the command ls, the command looks like that **man ls**
 
 ![man.png]({{site.baseurl}}/man.png)
 
