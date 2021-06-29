@@ -33,7 +33,7 @@ After that we will change the current directory to follder4 using the command **
 
 ![pwd.png]({{site.baseurl}}/pwd.png)
 
-IN order to search for a word or prefix  in a certain file we use the command grep + word + file name which looks like that **grep THM access.log** and after executing this command we found the flag : THM{ACESS}
+IN order to search for a word or prefix  in a certain file we use the command grep + word + file name which looks like that **grep THM access.log** and after executing this command we found the flag : THM{ACCESS}
 
 ![grep.png]({{site.baseurl}}/grep.png)
 
