@@ -29,5 +29,9 @@ Then we will use the command **cat folder4/note.txt** to know the content of fol
 
 ![cat.png]({{site.baseurl}}/cat.png)
 
+After that we will change the current directory to follder4 using the command **cd folder4** and outputs the full path of the current directory using **pwd** as follows:
+
+![pwd.png]({{site.baseurl}}/pwd.png)
+
 
 
