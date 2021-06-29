@@ -12,9 +12,12 @@ published: true
 
 2- the second task was learning how to navigate the machine by knowing commands such as:
 
-**ls:**  lists the directories and files
-**cd:**  is used to change directory
-**pwd:** prints current directory
+**ls:**  lists the directories and files 
+
+**cd:**  is used to change directory 
+
+**pwd:** prints current directory 
+
 **cat:** outputs the contents of a file
 
 Now we will use the command **ls*** to know the number of folders on the machine , asterisk is 
@@ -22,7 +25,7 @@ And I still haven't found what I'm looking for!
 a wild card that lists all folders contents at once 
 ![ls.png]({{site.baseurl}}/ls.png)
 
-Then we will use the command **cat folder4/note.txt**
+Then we will use the command **cat folder4/note.txt** to know the content of folder4
 ![cat.png]({{site.baseurl}}/cat.png)
 
 
