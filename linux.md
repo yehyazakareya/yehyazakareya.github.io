@@ -29,9 +29,17 @@ Then we will use the command **cat folder4/note.txt** to know the content of fol
 
 ![cat.png]({{site.baseurl}}/cat.png)
 
-After that we will change the current directory to follder4 using the command **cd folder4** and outputs the full path of the current directory using **pwd** as follows:
+After that we will change the current directory to follder4 using the command **cd folder4** and outputs the full path of the current directory using the command **pwd** as follows:
 
 ![pwd.png]({{site.baseurl}}/pwd.png)
+
+IN order to search for a word or prefix  in a certain file we use the command grep + word + file name which looks like that **grep THM access.log** and after executing this command we found the flag
+
+![grep.png]({{site.baseurl}}/grep.png)
+
+
+
+
 
 
 
