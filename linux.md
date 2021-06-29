@@ -9,3 +9,5 @@ published: true
 
 2- The second task was to find out the username of who you are logged in as so we will use the command **whoami** as shown:
 ![]({{site.baseurl}}//Screenshot%20from%202021-06-28%2017-01-33.png)
+
+fgfgf
