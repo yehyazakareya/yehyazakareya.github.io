@@ -5,12 +5,12 @@ published: true
  echo , whoami , ls , cd , cat , pwd , grep .
  
  <span style=" font-size:37px;"> **walkthrough:**</span><br/>
-1- The first task was to output the text "TryHackMe" so we will use the command **echo TryHackMe** 
+1- The first task is to output the text "TryHackMe" so we will use the command **echo TryHackMe** 
 
  After that we suppose to find out the username of who you are logged in as so we will use the command **whoami** as shown:
 ![Whoami.png]({{site.baseurl}}/Whoami.png)
 
-2- the second task was learning how to navigate the machine by knowing commands such as:
+2- The second task learns us  how to navigate the machine using commands such as:
 
 **ls:**  lists the directories and files 
 
@@ -49,9 +49,3 @@ After knowing a little bit about shell operators we will use that knowledge to c
 
 ![echo1.png]({{site.baseurl}}/echo1.png)
 ![echo2.png]({{site.baseurl}}/echo2.png)
-
-
-
-
-
-
