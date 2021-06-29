@@ -22,9 +22,11 @@ published: true
 
 Now we will use the command **ls*** to know the number of folders on the machine , asterisk is 
 a wild card that lists all folders contents at once 
+
 ![ls.png]({{site.baseurl}}/ls.png)
 
 Then we will use the command **cat folder4/note.txt** to know the content of folder4
+
 ![cat.png]({{site.baseurl}}/cat.png)
 
 
