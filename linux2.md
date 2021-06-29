@@ -37,7 +37,7 @@ Then we need to switch to user2 using the command **su user2**
 
 ![su.png]({{site.baseurl}}/su.png)
 
-Finally we open the file (important) to know its content using **cat important** command and here  we find the flag: THM{SU_USER2}
+After that  we open the file (important) to know its content using **cat important** command and here  we find the flag: THM{SU_USER2}
 
 ![cat3.png]({{site.baseurl}}/cat3.png)
 
