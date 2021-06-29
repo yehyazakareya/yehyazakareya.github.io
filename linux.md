@@ -10,7 +10,7 @@ published: true
  After that we suppose to find out the username of who you are logged in as so we will use the command **whoami** as shown:
 ![Whoami.png]({{site.baseurl}}/Whoami.png)
 
-2- The second task learns us  how to navigate the machine using commands such as:
+2- The second task teaches us  how to navigate the machine using commands such as:
 
 **ls:**  lists the directories and files 
 
