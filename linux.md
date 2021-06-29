@@ -8,6 +8,6 @@ published: true
 1- The first task was to output the text "TryHackMe" so we will use the command **echo TryHackMe** 
 
 2- The second task was to find out the username of who you are logged in as so we will use the command **whoami** as shown:
-![Screenshot%20from%202021-06-28%2017-01-33.png]({{site.baseurl}}/Screenshot%20from%202021-06-28%2017-01-33.png)
-![whoami.png]({{site.baseurl}}/whoami.png)
+![Whoami.png]({{site.baseurl}}/Whoami.png)
+
 
