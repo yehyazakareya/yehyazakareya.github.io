@@ -28,7 +28,7 @@ Then we must discover the contents of (myfile) so we will use **cat myfile** com
 
 ![cat2.png]({{site.baseurl}}/cat2.png)
 
-3- The third task is learning about the different users on the same machine so first we have to know the owner of the file (important) so we will execute the command **ls -l** ,    **-l** is used to list permissions,owners and groups of the files.
+3- The third task teaches us about different users on the same machine so first we have to know the owner of the file (important) so we will execute the command **ls -l** ,    **-l** is used to list permissions,owners and groups of the files.
 
 ![-l .png]({{site.baseurl}}/-l .png)
 
@@ -41,7 +41,7 @@ After that  we open the file (important) to know its content using **cat importa
 
 ![cat3.png]({{site.baseurl}}/cat3.png)
 
-4- The fourth task is to know the most common directories such as:
+4- The fourth task teaches us the most common directories such as:
 
 **/etc:** it stores the sudoers , passwd , shadow files , they show how the system stores the password for each user in encrypted formatting (sha512)
 
