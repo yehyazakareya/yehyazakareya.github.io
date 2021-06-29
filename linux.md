@@ -21,7 +21,6 @@ published: true
 **cat:** outputs the contents of a file
 
 Now we will use the command **ls*** to know the number of folders on the machine , asterisk is 
-And I still haven't found what I'm looking for!
 a wild card that lists all folders contents at once 
 ![ls.png]({{site.baseurl}}/ls.png)
 
