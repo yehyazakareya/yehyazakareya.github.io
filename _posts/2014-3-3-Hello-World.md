@@ -20,3 +20,10 @@ published: true
   
  
 <span style="font-family:Papyrus; color:red; font-size:50px;">   [Introductory networking write up  (HTB)](https://yehyazakareya.github.io/Introductory networking) </span> <br/><br/>
+
+  
+  
+  
+  
+  
+<span style="font-family:Papyrus; color:red; font-size:50px;">   [Encryption-crypto 101 write up  (HTB)](https://yehyazakareya.github.io/crypto) </span> <br/><br/>
