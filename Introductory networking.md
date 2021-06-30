@@ -72,4 +72,4 @@ When we search for a website on goole the first place the computer would look to
 
 
 Dig tool allows us to manually query recursive DNS servers of our choice by executing 
-**dig <domain> @<dns-server-ip>**
+**dig domain @DNS-Server-IP**
