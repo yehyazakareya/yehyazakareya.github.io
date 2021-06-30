@@ -19,4 +19,4 @@ published: true
   
   
  
-<span style="font-family:Papyrus; color:red; font-size:50px;">   [Introductory networking write up  (HTB)](https://yehyazakareya.github.io/introductory networking) </span> <br/><br/>
+<span style="font-family:Papyrus; color:red; font-size:50px;">   [Introductory networking write up  (HTB)](https://yehyazakareya.github.io/Introductory networking) </span> <br/><br/>
