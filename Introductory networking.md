@@ -71,5 +71,5 @@ Now we suppose to find the name of the golf course that is near registant addres
 When we search for a website on goole the first place the computer would look to find its IP address is the local cache if it isn't there , the computer then sends a request to the recursiv DNS server that will be known to the router , this server also maintain a cache for popular domains if the website you searched for isn't stored in cache , the recursive server will pass request to root name server , they keep track of DNS servers in the lower  level, choosing appropriate one to redirect your request to. These lower level servers re called top-level doman servers , they contain records specific to domain extensions such as: .com , .net .
 
 
-Dig tool allows to manually query recursive DNS servers of our choice by executing 
+Dig tool allows us to manually query recursive DNS servers of our choice by executing 
 **dig <domain> @<dns-server-ip>**
