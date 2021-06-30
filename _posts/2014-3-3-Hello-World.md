@@ -13,7 +13,7 @@ published: true
   
   
   
-<span style="font-family:Papyrus; color:red; font-size:55px;">   [linux Fundamentals part 3 write up  (HTB)](https://yehyazakareya.github.io/linux3) </span> ,br/><br/>
+<span style="font-family:Papyrus; color:red; font-size:55px;">   [linux Fundamentals part 3 write up  (HTB)](https://yehyazakareya.github.io/linux3) </span> <br/><br/>
   
   
   
