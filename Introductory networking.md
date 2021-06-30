@@ -9,7 +9,7 @@ Ping , Traceroute , Whois , Dig
 
 The first layer (physical) transmitts and receives data then the second layer (Data link) checks the received packets which is called (Frames) to make sure that they haven't been corrupted by adding trailer at the end of the transmission and present data in a suitable format for transmission then the third layer (Network) handles logical addressing then the fourth layer (Transport) choose to send data over TCP, the data is called (segments) by establishing stable connection between the two computers which is called three-way handshake (SYN , SYN/ACK ,ACK)or UDP, it's called (Datagrams) then the fifth layer (session) tracks communications between the host and receiving computers then the sixth layer (Presentation) encrypts or transforms initial data to give it a standardised format and finally the seventh layer (Application) accepts communcation requests from applications.
 
-The process of sending data from one computer to another is called encapsulation and the process that the receiving computer perform on the massage is called de-encapulation. These processes are used to add extra layer of security. 
+The process of sending data from one computer to another is called encapsulation and the opposite process,that the  receiving computer perform on the massage is called de-encapulation. These processes are used to add extra layer of security. 
 
 Note: the FTP protocol communicate with the seventh layer (Application)
 
