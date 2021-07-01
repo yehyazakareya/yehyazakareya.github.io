@@ -44,5 +44,49 @@ You can which company the website issued certificate to by clicking on the lock 
 ![lock.png]({{site.baseurl}}/lock.png)
 
 
-6- we will use John The Ripper tools and the wordlist rockyou to obtain the passphrase for the key.
+6- In this part we will use JohnTheRipper tool and the wordlist rockyou to obtain the passphrase for the key.
 
+First we will convert the idrsa.id_rsa into a hash file by using ssh2john.py tool and we will save the output in the directory to use JohnTheRipper to crack it so we will execute the following command
+
+**python ssh2john idrsa.id_rsa >> ~/src/john/run/id.hash**
+
+![hash.png]({{site.baseurl}}/hash.png)
+
+
+Then we will you the wordlist (rockyou.txt) to crack the password by executing
+
+**./john --wordlist=rockyou.txt id.hash**
+
+![src.png]({{site.baseurl}}/src.png)
+
+
+![password.png]({{site.baseurl}}/password.png)
+
+
+So the password is delicious.
+
+
+7- The seventh part explains Diffie Hellman key exchange 
+
+If two devices want to communicate safely over the network, they have to use a secret key, Diffie Hellman key exchange is the way how this secret key is made and it's almost impossible to be known by the public.
+
+8-In this part we will use GPG and the private key given (tryhackme.key) to decrypt the file and know the secret word
+
+First we will import the secret key using the command
+
+**gpg --import /path/to/the/secret key**
+
+
+![key.png]({{site.baseurl}}/key.png)
+
+
+Then we will decrypt using the gpg file using the following command 
+
+**gpg -d /path/to/the/encrypted message** 
+
+note:**-d** flag is used to decrypt the message
+
+![gpg.png]({{site.baseurl}}/gpg.png)
+
+
+The secret word is pineapple.
