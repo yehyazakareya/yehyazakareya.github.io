@@ -11,7 +11,7 @@ When you conncet to SSH, the client and the server establish an encrypted tunnel
 
 Standards like PCI-DSS state that data should be encrypted both in storage and while being transmitted. These standards is used when handling payment card details.
 
-2- The second task is about a liitle bit of math that comes up in cryptography like the mudlo operator.
+2- The second task includes a little bit of math that comes up in cryptography like the mudlo operator.
 
 Ex: 118613842 % 9091
 
