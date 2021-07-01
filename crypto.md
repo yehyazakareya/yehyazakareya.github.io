@@ -39,7 +39,7 @@ encrypt data like DES (56 bits long keys ) , it wasn't secure so they used anoth
 
 5- The fifth task is explaining the concept of digital signatures and certificates.
 
-You can which company the website issued certificate to by clicking on the lock symbol in your browser
+You can know which company the website issued certificate to by clicking on the lock symbol in your browser
 
 ![lock.png]({{site.baseurl}}/lock.png)
 
