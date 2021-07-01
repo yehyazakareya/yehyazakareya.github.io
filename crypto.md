@@ -5,7 +5,7 @@ John The Ripper , ssh2john.py , GPG
 
 <span style=" font-size:37px;"> **Walkthrough:** </span><br/>
 
-1- The first task teaches us about the importance of encryption and how the client and the server establish a safe connceton.
+1- The first task teaches us about the importance of encryption and how the client and the server establish a safe connection.
 
 When you conncet to SSH, the client and the server establish an encrypted tunnel so no one can snoop on your session , the server has a certificate that uses cryptography to prove its identity and when you download a file , you can use cryptography to verify a checksum of the data to make sure that the file was downloaded in a right way.
 
