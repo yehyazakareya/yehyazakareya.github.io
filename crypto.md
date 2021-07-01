@@ -90,3 +90,5 @@ note:**-d** flag is used to decrypt the message
 
 
 The secret word is pineapple.
+
+7- The final part is talking about the relation between quantum computers and encryption and why quantum computers are dangerous to some encryption algorithms 
