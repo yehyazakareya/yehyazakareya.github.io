@@ -27,9 +27,9 @@ published: true
   
   
   
-<span style="font-family:Papyrus; color:red; font-size:50px;">   [Encryption-crypto 101 write up  (HTB)](https://yehyazakareya.github.io/crypto) </span> <br/><br/>
+<span style="font-family:Papyrus; color:red; font-size:50px;">   [Encryption-crypto 101 write up  (TryHackMe)](https://yehyazakareya.github.io/crypto) </span> <br/><br/>
   
   
   
 
-<span style="font-family:Papyrus; color:red; font-size:50px;">   [Windows investigation write up  (HTB)](https://yehyazakareya.github.io/Windows investigation) </span> <br/><br/>  
+<span style="font-family:Papyrus; color:red; font-size:50px;">   [Windows investigation write up  (TryHackMe)](https://yehyazakareya.github.io/Windows investigation) </span> <br/><br/>  
