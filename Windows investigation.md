@@ -83,7 +83,7 @@ We will see the same thing at (www.google.com & google.com).
 
 
 
-14- After that we have to know the extension of the shell uploaded via the servers website so we will check the path **C:/inetPub/wwwroot** and we will see that the shell is **.jsp** file
+14- After that we have to know the extension of the shell uploaded via the servers website so we will check the path **C:\inetPub\wwwroot** and we will see that the shell is **.jsp** file
 
 
 ![Shell.png]({{site.baseurl}}/Shell.png)
